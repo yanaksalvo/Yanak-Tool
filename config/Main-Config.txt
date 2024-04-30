@@ -1,0 +1,23 @@
+    Alıntı işaretlerini kullanmamaya dikkat edin.
+    Düzenleme yöntemi eşittir işaretinden sonra belirtilir.
+    Çizgi çift tırnaklar yalnızca açıklamalar içindir, kod vermezler.
+
+-- Auto Claimer 
+AutoClaimerGuildID= -- Sunucu Kimliği.
+AutoClaimerSelfToken= -- Sunuculara Giriş Yapan Hesap Tokeni.
+AutoClaimerSelfTokenCatcher= -- Tokeni Yakalayan Hesap Tokeni.
+AutoClaimerSuccessWebhook= -- Başarı Bildirim Webhook Bağlantısı.
+AutoClaimerFailedWebhook= -- Başarısızlık Bildirim Webhook Bağlantısı.
+
+-- SWAPPER
+GuildID= -- Takasçının Sunucu Kimliği.
+SwapperWebhookURL= -- Takasçı Webhook Bağlantısı.
+SwapperCode= -- Taşınacak Kod.
+SwapperInterval= -- Araç Hızı.
+
+-- RATE LİMİT
+RateLimitGuildID= -- Sınırlama Doğrulama Sunucu Kimliği.
+RateLimitToken= -- Sınırlama Doğrulama Bot Tokeni çizgi çift tırnaklar kullanmamalısınız.
+
+-- Webhook Test Edici
+webhookTesterUrl= -- Webhook Test Edici Bağlantısı
