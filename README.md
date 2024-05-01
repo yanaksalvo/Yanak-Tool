@@ -1,4 +1,6 @@
 # Yanak-Tool
-Auto Claimer, Swapper, RateLimit , SpeedTest , WebhookTest tool
+*Auto Claimer, Swapper, RateLimit , SpeedTest , WebhookTest tool
 
-Discord: kemosalvo 
+* Discord : kemosalvo 
+* Telegram : @tehlikeliadam
+  
